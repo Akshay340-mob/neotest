@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322803327117",
+    "project_id": "neofirebase-17575",
+    "storage_bucket": "neofirebase-17575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322803327117:android:d4efeb5643f36937e402c4",
+        "android_client_info": {
+          "package_name": "com.neotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322803327117-2cb3vcfrpd6gdj6h7r86ddcht0oo705i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlXUf3_25_zGfeypzfoes0LyEfPmPG7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322803327117-2cb3vcfrpd6gdj6h7r86ddcht0oo705i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
